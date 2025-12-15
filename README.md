@@ -2,7 +2,7 @@
 
 Realtime computer vision–based driver monitoring system using OpenCV and MediaPipe.  
 The system detects eye closure, yawning, and fatigue in real time and triggers natural,
-escalating alerts — including continuous critical alarms.
+escalating alerts including continuous critical alarms.
 
 ---
 
@@ -37,4 +37,5 @@ The system combines multiple proven techniques used in driver monitoring researc
 Alerts escalate gradually and only stop once the driver recovers.
 
 ---
+
 
